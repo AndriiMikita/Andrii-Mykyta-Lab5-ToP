@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Andrii Mykyta Lab5 ToP/1.0.0": {
+        "runtime": {
+          "Andrii Mykyta Lab5 ToP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Andrii Mykyta Lab5 ToP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
